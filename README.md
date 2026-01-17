@@ -1,6 +1,8 @@
-# Daemo Calculator Agent
+# Daemo-Bounty - Hacker News API Agent
 
-This is a simple Quickstart agent for Daemo that provides a calculator function.
+Aarush K's submission for the Daemo Bounty (Hacker News API).
+
+This project implements an AI agent using the Daemo SDK.
 
 ## Setup
 
@@ -11,7 +13,7 @@ This is a simple Quickstart agent for Daemo that provides a calculator function.
 
 2. Set your API Key:
    ```powershell
-   $env:DAEMO_AGENT_API_KEY="daemo_live_"
+   $env:DAEMO_AGENT_API_KEY="daemo_live_..."
    ```
 
 3. Run the agent:
